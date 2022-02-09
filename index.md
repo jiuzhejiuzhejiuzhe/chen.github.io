@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# 个人照片
 
-You can use the [editor on GitHub](https://github.com/jiuzhejiuzhejiuzhe/chen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src=https://s3.bmp.ovh/imgs/2022/02/77098b7fb5707842.jpg width=30% />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 联系方式
+***
+- 手机：13517250104
+- Email：yu3hen@126.com
+-  微信：Yu3hen
+-  QQ: 778593417
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 个人信息
+***
+- 姓名：徐煜辰
+- 性别：男
+- 出生日期：2000.6.8
+- 本科：华中科技大学2018级
+- 专业：计算机科学与技术
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 项目经历
+***
+- Springboot与Vue实现博客系统
+  - 本项目实现一个博客系统并且上线，主要使用的技术springboot，mybatisplus，redis，mysql。
+- Java书城项目
+  - 本项目是构建一个Web书城项目，项目的目的是能够执行登录(管理员/用户)，书单的显示以及购买等功能。前端使用的技能是html，css，javascript技术,后端使用的技能是Servlet技术，使用Filter和Listener进行监听和拦截。数据库使用的是Mysql,数据库连接使用的是JDBC。
+- 手写RPC框架
+  - RPC即远程过程调用，用于实现分布式系统中，服务之间的通信问题。其中涉及的问题有动态代理，反射，序列化与反序列化，网络通信，编解码，服务发现与注册，心跳与链路检测。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# 校园经历
+***
+- 2019年湖北省大学生运动会志愿者，担任铅球裁判员。
+- 2018-2019年校义工部副部长
+    - 经历：
+      - 1.组织并安排志愿者参与校医院各科室服务值班工作。
+      - 2.招聘2019届义工部新成员 
+      - 3.带领义工部成员参与湖北省妇联组织的乡村支教行动。在湖北省荆州市公安县进行了一场长达7天的留守儿童支教行动，并且获得奖项。
 
-[Link](url) and ![Image](src)
-```
+# 技能证书
+***
+- 通过计算机二级
+- 通过英语四级
+- 通过英语六级
+# 技能清单
+***
+- 语言：了解Java，了解C，C++
+- JAVA基础：了解JAVA多线程
+- 计算机基础： 数据结构，计算机网络，操作系统，Linux系统
+- 数据库：了解Mysql及其调优，了解JDBC,Mybatis。
+- JavaWeb: 了解VUE框架，了解Spring5，SpringMVC，SpringBoot
+  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# 自我评价
+***
+- 有较强的学习能力和适应能力，良好的独立分析解决问题能力和逻辑分析思维。
+- 有良好的团队沟通协作力和服务意识，较强的工作执行力和抗压能力，愿与公司一同发展。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiuzhejiuzhejiuzhe/chen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 感谢您阅读我的简历，希望有机会与您共事。
+  
